@@ -8,7 +8,7 @@ Este repositório contém uma atividade acadêmica sobre a implementação de um
 - Luiz Fernando, 01847048  
 - Brunno Victor, 01836452  
 - Guilherme Henrique, 01825269
-- Carlos Artur
+- Carlos Arthur
 
 ---
 ## 📌 Descrição do Projeto
@@ -24,7 +24,7 @@ As classes principais são:
 ---
 ## 📊 Diagrama de Classes
 
-Abaixo está o diagrama de classes representando a relação entre **CaixaEletronico** e **Conta**:
+Abaixo está o diagrama de classes feito em sala de aula:
 
 ![Diagrama de Classes](diagrama-classes.pdf)
 
